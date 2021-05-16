@@ -73,7 +73,7 @@
 <hr>
 
 <h2 id="licenc-a">:handshake:Licença</h2>
-<a href="https://github.com/SuhMoraes/origamid-webDesignCompleto/blob/main/LICENSE">MIT LICENSE</a>
+<a href="https://github.com/SuhMoraes/origamid-flexbox/blob/main/LICENSE">MIT LICENSE</a>
 
 <hr>
 <h2 id="autor">:handshake:Autor</h2>
