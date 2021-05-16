@@ -1,9 +1,14 @@
 
-<a href="https://www.origamid.com/curso/web-design-completo/">
+<a href="https://www.origamid.com">
   <img src="https://scontent.fldb11-1.fna.fbcdn.net/v/t31.18172-8/18278155_1335288956537288_7397950741661673792_o.png?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=h6l-jk1R2I8AX9QvyYK&_nc_ht=scontent.fldb11-1.fna&oh=c7727ff0b816aba19fc3ab5caaf31a04&oe=60C8DDFC">
  </a>
  <hr>
  
+ <div align="center">
+   <h1>FlexBox</h1>   
+</div>
+
+<br>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -24,6 +29,8 @@
   
  
 <h2 id="projeto">:sparkler:Projeto</h2>
+<a href="https://suhmoraes.github.io/origamid-flexbox/flexblog/"> Aplicação </a>
+
 
 
 <h3> Desktop </h3>
