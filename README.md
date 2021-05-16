@@ -25,7 +25,12 @@
  
 <h2 id="projeto">:sparkler:Projeto</h2>
 
+
+<h3> Desktop </h3>
 <img src="https://ik.imagekit.io/fp3xx2hhnq/flexblog_p92dRATje.png">
+
+<h3> Mobile </h3>
+<img heigth="300px" src="https://ik.imagekit.io/fp3xx2hhnq/mobile-flexbox_LWZYFiQg-.png">
 
 
 
